@@ -1,0 +1,17 @@
+E:\C# програмування\Bezier_0.2\Bezier_2\Bezier_2\bin\Debug\net6.0-windows\Bezier_2.exe
+E:\C# програмування\Bezier_0.2\Bezier_2\Bezier_2\bin\Debug\net6.0-windows\Bezier_2.deps.json
+E:\C# програмування\Bezier_0.2\Bezier_2\Bezier_2\bin\Debug\net6.0-windows\Bezier_2.runtimeconfig.json
+E:\C# програмування\Bezier_0.2\Bezier_2\Bezier_2\bin\Debug\net6.0-windows\Bezier_2.dll
+E:\C# програмування\Bezier_0.2\Bezier_2\Bezier_2\bin\Debug\net6.0-windows\Bezier_2.pdb
+E:\C# програмування\Bezier_0.2\Bezier_2\Bezier_2\obj\Debug\net6.0-windows\Bezier_2.csproj.AssemblyReference.cache
+E:\C# програмування\Bezier_0.2\Bezier_2\Bezier_2\obj\Debug\net6.0-windows\Bezier_2.Form1.resources
+E:\C# програмування\Bezier_0.2\Bezier_2\Bezier_2\obj\Debug\net6.0-windows\Bezier_2.csproj.GenerateResource.cache
+E:\C# програмування\Bezier_0.2\Bezier_2\Bezier_2\obj\Debug\net6.0-windows\Bezier_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# програмування\Bezier_0.2\Bezier_2\Bezier_2\obj\Debug\net6.0-windows\Bezier_2.AssemblyInfoInputs.cache
+E:\C# програмування\Bezier_0.2\Bezier_2\Bezier_2\obj\Debug\net6.0-windows\Bezier_2.AssemblyInfo.cs
+E:\C# програмування\Bezier_0.2\Bezier_2\Bezier_2\obj\Debug\net6.0-windows\Bezier_2.csproj.CoreCompileInputs.cache
+E:\C# програмування\Bezier_0.2\Bezier_2\Bezier_2\obj\Debug\net6.0-windows\Bezier_2.dll
+E:\C# програмування\Bezier_0.2\Bezier_2\Bezier_2\obj\Debug\net6.0-windows\refint\Bezier_2.dll
+E:\C# програмування\Bezier_0.2\Bezier_2\Bezier_2\obj\Debug\net6.0-windows\Bezier_2.pdb
+E:\C# програмування\Bezier_0.2\Bezier_2\Bezier_2\obj\Debug\net6.0-windows\Bezier_2.genruntimeconfig.cache
+E:\C# програмування\Bezier_0.2\Bezier_2\Bezier_2\obj\Debug\net6.0-windows\ref\Bezier_2.dll

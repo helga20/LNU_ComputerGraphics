@@ -1,0 +1,31 @@
+c:\users\юлия\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\юлия\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\юлия\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\юлия\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+c:\users\юлия\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\юлия\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\юлия\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+c:\users\юлия\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\юлия\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\C# програмування\Bezier_0.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\C# програмування\Bezier_0.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\C# програмування\Bezier_0.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\C# програмування\Bezier_0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\C# програмування\Bezier_0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\C# програмування\Bezier_0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\C# програмування\Bezier_0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\C# програмування\Bezier_0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\C# програмування\Bezier_0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\C# програмування\Bezier_0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\C# програмування\Bezier_0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 2\Bezier_0\Bezier_0.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 2\Bezier_0\Bezier_0.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 2\Bezier_0\Bezier_0.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 2\Bezier_0\Bezier_0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 2\Bezier_0\Bezier_0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 2\Bezier_0\Bezier_0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 2\Bezier_0\Bezier_0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 2\Bezier_0\Bezier_0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 2\Bezier_0\Bezier_0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 2\Bezier_0\Bezier_0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 2\Bezier_0\Bezier_0.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
