@@ -1,0 +1,289 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Рівняння в часткових похідних</title>
+    <style type="text/css">
+        ul li {margin: 20px; margin-left: 3px;}
+        li ul li { margin: 6px;}
+        a:link {color:#8A0000;}      /* unvisited link */
+        a:visited { color:#454545;}
+
+
+	.button {
+		display: inline-block;
+		outline: none;
+		cursor: pointer;
+		text-align: center;
+		text-decoration: none;
+		font: 14px/100% Arial, Helvetica, sans-serif;
+		padding: .5em 2em .55em;
+		text-shadow: 0 1px 1px rgba(0,0,0,.3);
+		-webkit-border-radius: .5em; 
+		-moz-border-radius: .5em;
+		border-radius: .5em;
+		-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+		-moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+		box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	}
+	.button:hover {
+		text-decoration: none;
+	}
+	.button:active {
+		position: relative;
+		top: 1px;
+	}
+	
+
+	/* color styles 
+	---------------------------------------------- */
+	/* orange */
+	.orange {
+		color: #fef4e9;
+		border: solid 1px #da7c0c;
+		background: #f78d1d;
+		background: -webkit-gradient(linear, left top, left bottom, from(#faa51a), to(#f47a20));
+		background: -moz-linear-gradient(top,  #faa51a,  #f47a20);
+		filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#faa51a', endColorstr='#f47a20');
+	}
+	.orange:hover {
+		background: #f47c20;
+		background: -webkit-gradient(linear, left top, left bottom, from(#f88e11), to(#f06015));
+		background: -moz-linear-gradient(top,  #f88e11,  #f06015);
+		filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f88e11', endColorstr='#f06015');
+	}
+	.orange:active {
+		color: #fcd3a5;
+		background: -webkit-gradient(linear, left top, left bottom, from(#f47a20), to(#faa51a));
+		background: -moz-linear-gradient(top,  #f47a20,  #faa51a);
+		filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f47a20', endColorstr='#faa51a');
+	}
+
+	#customers{
+		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+		width:100%;
+		border-collapse:collapse;
+	}
+	#customers td, #customers th {
+		font-size:1em;
+		border:1px solid #98bf21;
+		padding:3px 7px 2px 7px;
+	}
+	#customers th {
+		font-size:1.1em;
+		text-align:left;
+		padding-top:5px;
+		padding-bottom:4px;
+		background-color:#A7C942;
+		color:#ffffff;
+	}
+	#customers tr.alt td {
+		color:#000000;
+		background-color:#EAF2D3;
+	}
+
+    </style>
+</head>
+<body>
+
+	<table id="customers">
+		<tr>
+		  <th>Питання</th>
+		  <th>Ссилки</th>
+		</tr>
+
+		<tr>
+			<td>1.	Ввід в комп’ютерну графіку. Означення.Основні поняття. Сфери застосування.</td>
+			<td><a href = "1.jpg" class="button orange" >Click</a></td>
+		</tr>
+
+		<tr class="alt">
+			<td>2.	Основні етапи загального алгоритму обробки зображень.</td>
+			<td><a href = "2.jpg" class="button orange">Click</a></td>
+		</tr>
+
+		<tr>
+			<td>3.	Перетворення точок в двовимірному просторі. Обертання навколо центральної точки.</td>
+			<td><a href = "3.jpg" class="button orange">Click</a></td>
+		</tr>
+
+		<tr class="alt">
+			<td>4.	Однорідні  координати  на  площині. Проекційні перетворення. Узагальнення обертань. </td>
+			<td><a href = "4.jpg" class="button orange">Click</a></td>
+		</tr>
+
+		<tr>
+			<td>5.	Точки в безмежності.</td>
+			<td><a href = "5.jpg" class="button orange">Click</a></td>
+		</tr>
+
+		<tr class="alt">
+			<td>6.	Однорідні  координати  в  просторі.   Базові перетворення   координат.	</td>
+			<td><a href = "6.jpg" class="button orange">Click</a></td>
+		</tr>
+
+		<tr>
+			<td>7.	Афінна  та перспективна   геометрія. Аксонометричні проекції.</td>
+			<td><a href = "7.jpg" class="button orange">Click</a></td>
+		</tr>
+
+		<tr class="alt">
+			<td>8.	Перспективне перетворення.</td>
+			<td><a href = "8.jpg" class="button orange">Click</a></td>
+		</tr>
+
+		<tr>
+			<td>9.	Способи отримання перспективних зображень.</td>
+			<td><a href = "9.jpg" class="button orange">Click</a></td>
+		</tr>
+
+		<tr class="alt">
+			<td>10.	Поновлення тривимірної інформації. <br>
+				•	Отримання точок проекцій. <br>
+				•	Знаходження початкового зображення. <br>
+				•	Знаходження матриці перетворення <br>
+
+			</td>
+			<td><a href = "10.jpg" class="button orange">Click</a></td>
+		</tr>
+
+		<tr>
+			<td>11.	Задання плоских кривих. <br>
+				•	 Параметричне зображення кола. <br>
+				•	Параметричне зображення еліпса. <br>
+				•	 Параметричне зображення параболи. <br>
+				•	Параметричне зображення гіперболи. <br>
+
+
+			</td>
+			<td><a href = "11.jpg" class="button orange">Click</a></td>
+		</tr>
+
+		<tr class="alt">
+			<td>12.	Задання просторових кривих. Кубічні сплайни.  <br>
+				•	Закріплена гранична умова. <br>
+				•	Слабкі граничні умови. <br>
+				•	Циклічні граничні умови. <br>
+				•	Ациклічні граничні умови. <br>
+
+
+			</td>
+			<td>
+				<a href = "12_1.jpg" class="button orange">1 of 3</a> <br>
+				<a href = "12_2.jpg" class="button orange">2 of 3</a> <br>
+				<a href = "12_3.jpg" class="button orange">3 of 3</a>
+			</td>
+		</tr>
+
+		<tr>
+			<td>13.	Параболічна  інтерполяція.</td>
+			<td><a href = "13.jpg" class="button orange">Click</a></td>
+		</tr>
+
+		<tr class="alt">
+			<td>14.	Криві  Без'є.  	</td>
+			<td><a href = "14.jpg" class="button orange">Click</a></td>
+		</tr>
+
+		<tr>
+			<td>15.	Апроксимація  поверхонь в   просторі.   	  <br>
+				•	Білінійні поверхні. <br>
+				•	Лінійчаті поверхні. <br>
+				•	Лінійні  поверхні  Кунса. <br>
+				•	Бікубічні поверхні. <br>
+				•	Поверхні Без'є. <br>
+
+
+
+			</td>
+			<td>
+				<a href = "15_1.jpg" class="button orange">1 of 4</a> <br>
+				<a href = "15_2.jpg" class="button orange">2 of 4</a> <br>
+				<a href = "15_3.jpg" class="button orange">3 of 4</a> <br>
+				<a href = "15_4.jpg" class="button orange">4 of 4</a>
+			</td>
+		</tr>
+
+		<tr class="alt">
+			<td>16.	Растрові формати зберігання графічних файлів. Формат BMP. Алгоритм RLE.	</td>
+			<td><a href = "16.jpg" class="button orange">Click</a></td>
+		</tr>
+
+		<tr>
+			<td>17.	Формат GIF. Алгоритм LZW.	</td>
+			<td>
+				<a href = "17.jpg" class="button orange">Click</a> 
+			</td>
+		</tr>
+
+		<tr class="alt">
+			<td>18.	Алгоритм JPEG. 	</td>
+			<td>
+				<a href = "18_1.jpg" class="button orange">1 of 2</a> <br>
+				<a href = "18_2.jpg" class="button orange">2 of 2</a>
+			</td>
+		</tr>
+
+		<tr>
+			<td>19.	Векторні формати.	</td>
+			<td><a href = "19.jpg" class="button orange">Click</a></td>
+		</tr>
+
+		<tr class="alt">
+			<td>20.	Алгоритми малювання відрізків.	<br>
+				•	Алгоритм ЦДА <br>
+				•	Алгоритм Брезенхема <br>
+
+			</td>
+			<td>
+				<a href = "20_1.jpg" class="button orange">1 of 2</a> <br>
+				<a href = "20_2.jpg" class="button orange">2 of 2</a>
+			</td>
+		</tr>
+
+		<tr>
+			<td>21.	Алгоритми заповнення областей.Алгоритм заповнення із затравкою.	</td>
+			<td><a href = "21.jpg" class="button orange">Click</a></td>
+		</tr>
+
+		<tr class="alt">
+			<td>22.	Растрова розгортка суцільних областей.	</td>
+			<td><a href = "22.jpg" class="button orange">Click</a></td>
+		</tr>
+
+		<tr >
+			<td>23.	Апроксимація напівтонами.	<br>
+				•	Алгоритм Флойда-Стейнберга<br>
+				•	Алгоритм Ліна <br>
+
+			</td>
+			<td>
+				<a href = "23_1.jpg" class="button orange">1 of 2</a> <br>
+				<a href = "23_2.jpg" class="button orange">2 of 2</a>
+			</td>
+		</tr>
+
+		<tr class="alt">
+			<td >24.	Двовимірна відсіч. Простий алгоритм виокремлення відрізків.	</td>
+			<td><a href = "24.jpg" class="button orange">Click</a></td>
+		</tr>
+
+		<tr >
+			<td >25.	Алгоритм Сазерленда-Коена.	</td>
+			<td><a href = "25.jpg" class="button orange">Click</a></td>
+		</tr>
+
+		<tr class="alt">
+			<td >26.	Відсіч зображення випуклим вікном. Алгоритм Кируса-Бека.	</td>
+			<td><a href = "26.jpg" class="button orange">Click</a></td>
+		</tr>
+
+		<tr >
+			<td >27.	Видалення невидимих ліній та поверхонь. Алгоритм плаваючого горизонту.	</td>
+			<td><a href = "27.jpg" class="button orange">Click</a></td>
+		</tr>
+
+
+</table>
+
+</body>
+</html>
