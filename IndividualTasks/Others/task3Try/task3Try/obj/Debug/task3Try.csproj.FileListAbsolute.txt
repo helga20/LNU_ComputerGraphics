@@ -1,0 +1,31 @@
+C:\Users\Asus\source\repos\task3Try\task3Try\bin\Debug\task3Try.exe.config
+C:\Users\Asus\source\repos\task3Try\task3Try\bin\Debug\task3Try.exe
+C:\Users\Asus\source\repos\task3Try\task3Try\bin\Debug\task3Try.pdb
+C:\Users\Asus\source\repos\task3Try\task3Try\obj\Debug\task3Try.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\task3Try\task3Try\obj\Debug\task3Try.Form1.resources
+C:\Users\Asus\source\repos\task3Try\task3Try\obj\Debug\task3Try.Properties.Resources.resources
+C:\Users\Asus\source\repos\task3Try\task3Try\obj\Debug\task3Try.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\task3Try\task3Try\obj\Debug\task3Try.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\task3Try\task3Try\obj\Debug\task3Try.exe
+C:\Users\Asus\source\repos\task3Try\task3Try\obj\Debug\task3Try.pdb
+C:\Users\Home\Desktop\task3Try\task3Try\bin\Debug\task3Try.exe.config
+C:\Users\Home\Desktop\task3Try\task3Try\bin\Debug\task3Try.exe
+C:\Users\Home\Desktop\task3Try\task3Try\bin\Debug\task3Try.pdb
+C:\Users\Home\Desktop\task3Try\task3Try\obj\Debug\task3Try.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\task3Try\task3Try\obj\Debug\task3Try.Form1.resources
+C:\Users\Home\Desktop\task3Try\task3Try\obj\Debug\task3Try.Properties.Resources.resources
+C:\Users\Home\Desktop\task3Try\task3Try\obj\Debug\task3Try.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\task3Try\task3Try\obj\Debug\task3Try.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\task3Try\task3Try\obj\Debug\task3Try.exe
+C:\Users\Home\Desktop\task3Try\task3Try\obj\Debug\task3Try.pdb
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Комп. граф\Комп. граф\task3Try\task3Try\bin\Debug\task3Try.exe.config
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Комп. граф\Комп. граф\task3Try\task3Try\bin\Debug\task3Try.exe
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Комп. граф\Комп. граф\task3Try\task3Try\bin\Debug\task3Try.pdb
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Комп. граф\Комп. граф\task3Try\task3Try\obj\Debug\task3Try.csproj.AssemblyReference.cache
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Комп. граф\Комп. граф\task3Try\task3Try\obj\Debug\task3Try.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Комп. граф\Комп. граф\task3Try\task3Try\obj\Debug\task3Try.Form1.resources
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Комп. граф\Комп. граф\task3Try\task3Try\obj\Debug\task3Try.Properties.Resources.resources
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Комп. граф\Комп. граф\task3Try\task3Try\obj\Debug\task3Try.csproj.GenerateResource.cache
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Комп. граф\Комп. граф\task3Try\task3Try\obj\Debug\task3Try.csproj.CoreCompileInputs.cache
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Комп. граф\Комп. граф\task3Try\task3Try\obj\Debug\task3Try.exe
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Комп. граф\Комп. граф\task3Try\task3Try\obj\Debug\task3Try.pdb
