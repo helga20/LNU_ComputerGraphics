@@ -1,0 +1,41 @@
+E:\3_kurs\Comp_grafika\3\Proba5_C#\FloatingHorizon-master\FloatingHorizon\bin\Debug\FloatingHorizon.exe.config
+E:\3_kurs\Comp_grafika\3\Proba5_C#\FloatingHorizon-master\FloatingHorizon\bin\Debug\FloatingHorizon.exe
+E:\3_kurs\Comp_grafika\3\Proba5_C#\FloatingHorizon-master\FloatingHorizon\bin\Debug\FloatingHorizon.pdb
+E:\3_kurs\Comp_grafika\3\Proba5_C#\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.csprojAssemblyReference.cache
+E:\3_kurs\Comp_grafika\3\Proba5_C#\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.Form1.resources
+E:\3_kurs\Comp_grafika\3\Proba5_C#\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.Properties.Resources.resources
+E:\3_kurs\Comp_grafika\3\Proba5_C#\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.csproj.GenerateResource.cache
+E:\3_kurs\Comp_grafika\3\Proba5_C#\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.csproj.CoreCompileInputs.cache
+E:\3_kurs\Comp_grafika\3\Proba5_C#\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.exe
+E:\3_kurs\Comp_grafika\3\Proba5_C#\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.pdb
+D:\3_kurs\Comp_grafika\3\Proba5_C#\FloatingHorizon-master\FloatingHorizon\bin\Debug\FloatingHorizon.exe.config
+D:\3_kurs\Comp_grafika\3\Proba5_C#\FloatingHorizon-master\FloatingHorizon\bin\Debug\FloatingHorizon.exe
+D:\3_kurs\Comp_grafika\3\Proba5_C#\FloatingHorizon-master\FloatingHorizon\bin\Debug\FloatingHorizon.pdb
+D:\3_kurs\Comp_grafika\3\Proba5_C#\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.csprojAssemblyReference.cache
+D:\3_kurs\Comp_grafika\3\Proba5_C#\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.Form1.resources
+D:\3_kurs\Comp_grafika\3\Proba5_C#\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.Properties.Resources.resources
+D:\3_kurs\Comp_grafika\3\Proba5_C#\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.csproj.GenerateResource.cache
+D:\3_kurs\Comp_grafika\3\Proba5_C#\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.csproj.CoreCompileInputs.cache
+D:\3_kurs\Comp_grafika\3\Proba5_C#\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.exe
+D:\3_kurs\Comp_grafika\3\Proba5_C#\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.pdb
+D:\ОГКГ\FloatingHorizon-master\FloatingHorizon\bin\Debug\FloatingHorizon.exe.config
+D:\ОГКГ\FloatingHorizon-master\FloatingHorizon\bin\Debug\FloatingHorizon.exe
+D:\ОГКГ\FloatingHorizon-master\FloatingHorizon\bin\Debug\FloatingHorizon.pdb
+D:\ОГКГ\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.csprojAssemblyReference.cache
+D:\ОГКГ\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.Form1.resources
+D:\ОГКГ\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.Properties.Resources.resources
+D:\ОГКГ\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.csproj.GenerateResource.cache
+D:\ОГКГ\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.csproj.CoreCompileInputs.cache
+D:\ОГКГ\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.exe
+D:\ОГКГ\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.pdb
+D:\Навчання\1 - 4 семестри\Обчислювальна геометрія та комп графіка\ОГКГ\FloatingHorizon-master\FloatingHorizon\bin\Debug\FloatingHorizon.exe.config
+D:\Навчання\1 - 4 семестри\Обчислювальна геометрія та комп графіка\ОГКГ\FloatingHorizon-master\FloatingHorizon\bin\Debug\FloatingHorizon.exe
+D:\Навчання\1 - 4 семестри\Обчислювальна геометрія та комп графіка\ОГКГ\FloatingHorizon-master\FloatingHorizon\bin\Debug\FloatingHorizon.pdb
+D:\Навчання\1 - 4 семестри\Обчислювальна геометрія та комп графіка\ОГКГ\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.csproj.AssemblyReference.cache
+D:\Навчання\1 - 4 семестри\Обчислювальна геометрія та комп графіка\ОГКГ\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\1 - 4 семестри\Обчислювальна геометрія та комп графіка\ОГКГ\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.Form1.resources
+D:\Навчання\1 - 4 семестри\Обчислювальна геометрія та комп графіка\ОГКГ\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.Properties.Resources.resources
+D:\Навчання\1 - 4 семестри\Обчислювальна геометрія та комп графіка\ОГКГ\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.csproj.GenerateResource.cache
+D:\Навчання\1 - 4 семестри\Обчислювальна геометрія та комп графіка\ОГКГ\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.csproj.CoreCompileInputs.cache
+D:\Навчання\1 - 4 семестри\Обчислювальна геометрія та комп графіка\ОГКГ\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.exe
+D:\Навчання\1 - 4 семестри\Обчислювальна геометрія та комп графіка\ОГКГ\FloatingHorizon-master\FloatingHorizon\obj\Debug\FloatingHorizon.pdb

@@ -1,0 +1,36 @@
+c:\users\observer_jnr\documents\visual studio 2015\Projects\CubeSplain\CubeSplain\bin\Debug\CubeSplain.exe.config
+c:\users\observer_jnr\documents\visual studio 2015\Projects\CubeSplain\CubeSplain\bin\Debug\CubeSplain.exe
+c:\users\observer_jnr\documents\visual studio 2015\Projects\CubeSplain\CubeSplain\bin\Debug\CubeSplain.pdb
+c:\users\observer_jnr\documents\visual studio 2015\Projects\CubeSplain\CubeSplain\obj\Debug\CubeSplain.csprojResolveAssemblyReference.cache
+c:\users\observer_jnr\documents\visual studio 2015\Projects\CubeSplain\CubeSplain\obj\Debug\CubeSplain.Form1.resources
+c:\users\observer_jnr\documents\visual studio 2015\Projects\CubeSplain\CubeSplain\obj\Debug\CubeSplain.Properties.Resources.resources
+c:\users\observer_jnr\documents\visual studio 2015\Projects\CubeSplain\CubeSplain\obj\Debug\CubeSplain.csproj.GenerateResource.Cache
+c:\users\observer_jnr\documents\visual studio 2015\Projects\CubeSplain\CubeSplain\obj\Debug\CubeSplain.exe
+c:\users\observer_jnr\documents\visual studio 2015\Projects\CubeSplain\CubeSplain\obj\Debug\CubeSplain.pdb
+C:\Users\Observer_JNR\Desktop\CubeSplain\CubeSplain\bin\Debug\CubeSplain.exe.config
+C:\Users\Observer_JNR\Desktop\CubeSplain\CubeSplain\obj\Debug\CubeSplain.exe
+C:\Users\Observer_JNR\Desktop\CubeSplain\CubeSplain\obj\Debug\CubeSplain.pdb
+C:\Users\Observer_JNR\Desktop\CubeSplain\CubeSplain\obj\Debug\CubeSplain.csprojResolveAssemblyReference.cache
+C:\Users\Observer_JNR\Desktop\CubeSplain\CubeSplain\obj\Debug\CubeSplain.Form1.resources
+C:\Users\Observer_JNR\Desktop\CubeSplain\CubeSplain\obj\Debug\CubeSplain.Properties.Resources.resources
+C:\Users\Observer_JNR\Desktop\CubeSplain\CubeSplain\obj\Debug\CubeSplain.csproj.GenerateResource.Cache
+C:\Users\Observer_JNR\Desktop\CubeSplain\CubeSplain\bin\Debug\CubeSplain.exe
+C:\Users\Observer_JNR\Desktop\CubeSplain\CubeSplain\bin\Debug\CubeSplain.pdb
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\CubeSplain-20161203T150543Z\CubeSplain\CubeSplain\bin\Debug\CubeSplain.exe.config
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\CubeSplain-20161203T150543Z\CubeSplain\CubeSplain\obj\Debug\CubeSplain.exe
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\CubeSplain-20161203T150543Z\CubeSplain\CubeSplain\obj\Debug\CubeSplain.pdb
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\CubeSplain-20161203T150543Z\CubeSplain\CubeSplain\bin\Debug\CubeSplain.exe
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\CubeSplain-20161203T150543Z\CubeSplain\CubeSplain\bin\Debug\CubeSplain.pdb
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\CubeSplain-20161203T150543Z\CubeSplain\CubeSplain\obj\Debug\CubeSplain.csprojResolveAssemblyReference.cache
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\CubeSplain-20161203T150543Z\CubeSplain\CubeSplain\obj\Debug\CubeSplain.Form1.resources
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\CubeSplain-20161203T150543Z\CubeSplain\CubeSplain\obj\Debug\CubeSplain.Properties.Resources.resources
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\CubeSplain-20161203T150543Z\CubeSplain\CubeSplain\obj\Debug\CubeSplain.csproj.GenerateResource.Cache
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\SimpleFillAlgo\CubeSplain\bin\Debug\CubeSplain.exe.config
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\SimpleFillAlgo\CubeSplain\obj\Debug\CubeSplain.exe
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\SimpleFillAlgo\CubeSplain\obj\Debug\CubeSplain.pdb
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\SimpleFillAlgo\CubeSplain\bin\Debug\CubeSplain.exe
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\SimpleFillAlgo\CubeSplain\bin\Debug\CubeSplain.pdb
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\SimpleFillAlgo\CubeSplain\obj\Debug\CubeSplain.csprojResolveAssemblyReference.cache
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\SimpleFillAlgo\CubeSplain\obj\Debug\CubeSplain.Form1.resources
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\SimpleFillAlgo\CubeSplain\obj\Debug\CubeSplain.Properties.Resources.resources
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\SimpleFillAlgo\CubeSplain\obj\Debug\CubeSplain.csproj.GenerateResource.Cache

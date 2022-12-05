@@ -1,0 +1,31 @@
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\SimpleFillAlgo\CubeSplain\bin\Debug\CubeSplain.exe.config
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\SimpleFillAlgo\CubeSplain\bin\Debug\CubeSplain.exe
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\SimpleFillAlgo\CubeSplain\bin\Debug\CubeSplain.pdb
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\SimpleFillAlgo\CubeSplain\obj\Debug\CubeSplain.Form1.resources
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\SimpleFillAlgo\CubeSplain\obj\Debug\CubeSplain.Properties.Resources.resources
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\SimpleFillAlgo\CubeSplain\obj\Debug\SimpleFill.csproj.GenerateResource.Cache
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\SimpleFillAlgo\CubeSplain\obj\Debug\CubeSplain.exe
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\SimpleFillAlgo\CubeSplain\obj\Debug\CubeSplain.pdb
+C:\Users\користувач\Documents\Visual Studio 2015\Projects\5\Graphics\SimpleFillAlgo\CubeSplain\obj\Debug\SimpleFill.csprojResolveAssemblyReference.cache
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Graphics\SimpleFillAlgo\CubeSplain\bin\Debug\CubeSplain.exe.config
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Graphics\SimpleFillAlgo\CubeSplain\bin\Debug\CubeSplain.exe
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Graphics\SimpleFillAlgo\CubeSplain\bin\Debug\CubeSplain.pdb
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Graphics\SimpleFillAlgo\CubeSplain\obj\Debug\SimpleFill.csproj.AssemblyReference.cache
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Graphics\SimpleFillAlgo\CubeSplain\obj\Debug\SimpleFill.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Graphics\SimpleFillAlgo\CubeSplain\obj\Debug\CubeSplain.Form1.resources
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Graphics\SimpleFillAlgo\CubeSplain\obj\Debug\CubeSplain.Properties.Resources.resources
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Graphics\SimpleFillAlgo\CubeSplain\obj\Debug\SimpleFill.csproj.GenerateResource.cache
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Graphics\SimpleFillAlgo\CubeSplain\obj\Debug\SimpleFill.csproj.CoreCompileInputs.cache
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Graphics\SimpleFillAlgo\CubeSplain\obj\Debug\CubeSplain.exe
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Нова папка\Graphics\SimpleFillAlgo\CubeSplain\obj\Debug\CubeSplain.pdb
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 3\SimpleFillAlgo\CubeSplain\bin\Debug\CubeSplain.exe.config
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 3\SimpleFillAlgo\CubeSplain\bin\Debug\CubeSplain.exe
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 3\SimpleFillAlgo\CubeSplain\bin\Debug\CubeSplain.pdb
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 3\SimpleFillAlgo\CubeSplain\obj\Debug\SimpleFill.csproj.AssemblyReference.cache
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 3\SimpleFillAlgo\CubeSplain\obj\Debug\SimpleFill.csproj.SuggestedBindingRedirects.cache
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 3\SimpleFillAlgo\CubeSplain\obj\Debug\CubeSplain.Form1.resources
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 3\SimpleFillAlgo\CubeSplain\obj\Debug\CubeSplain.Properties.Resources.resources
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 3\SimpleFillAlgo\CubeSplain\obj\Debug\SimpleFill.csproj.GenerateResource.cache
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 3\SimpleFillAlgo\CubeSplain\obj\Debug\SimpleFill.csproj.CoreCompileInputs.cache
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 3\SimpleFillAlgo\CubeSplain\obj\Debug\CubeSplain.exe
+D:\Навчання\5 семестр\Обчислювальна геометрія та комп'ютерна графіка\Практичні\Індивідуальне завдання 3\SimpleFillAlgo\CubeSplain\obj\Debug\CubeSplain.pdb
